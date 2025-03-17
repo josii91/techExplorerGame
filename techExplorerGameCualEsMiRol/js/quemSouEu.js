@@ -74,7 +74,7 @@ const listPersonagens = [
         break;
     }
   }
-  
+  //teste 
   document.addEventListener("keydown", (e) => {
     if (finalizouPartida == false) {
       if (e.key === "Enter") {
